@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: lightcyan;
+}
+
+header{
+    text-align: center;
+    background-color: lightgreen;
+    color: black;
+    text-decoration: solid;
+    padding: 14px;
+    margin-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.Navegador{
+    width: 130px;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    padding: 17px;
+    border-radius: 7px;
+    
+}
+.Navegador:hover{
+    background-color: lightslategray;
+    box-sizing: border-box 6px;
+}
+
+article{
+    display: flex;
+    background-color: rosybrown;
+    margin: 6px;
+    margin-top: 24px;
+    justify-content: center;
+
+}
+
+section{ 
+
+    display: flex;
+    background-color: lightseagreen;
+    margin: 30px;
+    justify-content: center;
+    padding: 7px;
+}
+
+img{
+    height: 400px;
+    width: 260px;
+    margin-left: 50px;
+    margin: 30px;
+}
+
+div{
+    display: flex;
+}
+
+footer{
+    background-color: lightsteelblue;
+    margin-top: 34px;
+    margin: 20px;
+    
+}
+
